@@ -101,6 +101,8 @@ Each block under `agents:` names one prompt file, the grants that agent holds, a
 
 - `docs/MIGRATION.md`: archive the run record first, the four pieces per agent, the credential step, and the week that proves the new setup before you cancel.
 - The migration walkthrough: [taskletalternative.com/migrate-from-tasklet](https://taskletalternative.com/migrate-from-tasklet).
+- The four products a Tasklet searcher is usually offered, each cell taken from that vendor's own page, with what open source changes about the answer: [taskletalternative.com/tasklet-alternatives](https://taskletalternative.com/tasklet-alternatives).
+- If the reason for leaving is custody rather than features, [taskletalternative.com/self-hosted-tasklet-alternative](https://taskletalternative.com/self-hosted-tasklet-alternative) walks the route where the control plane runs on machines you choose.
 - Kortix docs: [kortix.com/docs](https://kortix.com/docs).
 
 Kortix is open source. Self-host is free, and `docs/MIGRATION.md` has the three commands that bring up an instance you own.
